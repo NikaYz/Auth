@@ -1,3 +1,4 @@
+It's a normal Auth sub-project, used for authentication of users with credentials and different types of auth providers such as google and github. 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
